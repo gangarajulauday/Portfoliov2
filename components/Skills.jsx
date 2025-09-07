@@ -1,12 +1,16 @@
 import {
     RiReactjsFill,
-    RiNextjsFill,
+    RiJavaLine,
     RiHtml5Fill,
     RiCss3Fill,
     RiTailwindCssFill,
     RiNodejsFill,
+    RiAngularjsFill
 } from 'react-icons/ri';
-
+import { BiLogoSpringBoot,BiLogoKubernetes } from "react-icons/bi";
+import { TbFileTypeSql } from "react-icons/tb";
+import { FaDocker,FaLinux } from "react-icons/fa";
+import { VscAzure } from "react-icons/vsc";
 import {
   Tooltip,
   TooltipContent,
@@ -20,8 +24,12 @@ const skills = [
         name: "React.js"
     },
     {
-        icon: <RiNextjsFill />,
-        name: "Next.js"
+        icon: <RiAngularjsFill />,
+        name: "AngularJS"
+    },
+    {
+        icon: <RiJavaLine />,
+        name: "Java"
     },
     {
         icon: <RiHtml5Fill />,
@@ -38,6 +46,30 @@ const skills = [
     {
         icon: <RiNodejsFill />,
         name: "Node.js"
+    },
+    {
+        icon: <BiLogoSpringBoot />,
+        name: "Spring Boot"
+    },
+    {
+        icon: <TbFileTypeSql />,
+        name: "SQL"
+    },
+    {
+        icon: <FaDocker />,
+        name: "Docker"
+    },
+    {
+        icon: <VscAzure />,
+        name: "Azure"
+    },
+    {
+        icon: <BiLogoKubernetes />,
+        name: "Kubernetes"
+    },
+    {
+        icon: <FaLinux />,
+        name: "Linux"
     }
 ];
 

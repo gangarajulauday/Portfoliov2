@@ -1,19 +1,39 @@
 
 const journey = [
     {
-        years: "2022 - Present",
-        role: "Web Developer & Designer",
-        institution: "Tech Inc",
+        years: "2022 to Present",
+        role: "Full Stack Developer",
+        institution: "Encore Consulting Services, Inc",
     },
     {
-        years: "2020 - 2022",
-        role: "Web Developer",
-        institution: "XYZ Company",
+        years: "2021 to 2022",
+        role: "Software Developer",
+        institution: "Exalttek, Inc.",
     },
     {
-        years: "2016 - 2020",
-        role: "Student",
-        institution: "University of Design",
+        years: "2020 to 2021",
+        role: "Software Developer",
+        institution: "Strategic Resources International Inc",
+    },
+    {
+        years: "Aug 2016 to Dec 2016",
+        role: "Internship",
+        institution: "Tine Software Solutions Inc ",
+    },
+    {
+        years: "July 2015 to Dec 2016",
+        role: "Masters",
+        institution: "University of Central Missouri",
+    },
+    {
+        years: "2014 to 2015",
+        role: "Customer Service Specialist",
+        institution: "Amazon, India",
+    },
+    {
+        years: "2009 to 2013",
+        role: "Bachelors Degree",
+        institution: "Jawaharlal Nehru Technological University, IND",
     }
 ];
 

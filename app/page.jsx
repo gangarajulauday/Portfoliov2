@@ -5,7 +5,6 @@ import { TypeAnimation } from "react-type-animation";
 import { MdArrowOutward } from 'react-icons/md';
 import { HiOutlinePhone, HiOutlineMail } from 'react-icons/hi';
 
-// import Blob from "@/components/Blob";
 import Image from "next/image";
 import avatarImg from '@/public/assets/avatar.png';
 import Socials from "@/components/Socials";

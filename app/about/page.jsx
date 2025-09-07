@@ -46,7 +46,7 @@ const About = () => {
               <h2 className="h2 mb-6">
                 <span className="text-accent">Uday Bhasker</span> Gangarajula
               </h2>
-              <p className="max-w-[540px] mb-12">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum adipisci quisquam veritatis minima corrupti. Nihil quis ex sit rem illo accusantium eius officia aliquid nulla.</p>
+              <p className="max-w-[540px] mb-12">I am a passionate Full Stack Software Engineer with over 7 years of experience in developing web applications. Specializing in Java, Spring Boot, React.js, and cloud technologies, I've successfully delivered scalable solutions across fintech and healthcare domains. I thrive on solving complex problems and continuously learning new technologies to create efficient, user-centric applications. Currently focusing on cloud-native architectures and microservices development while maintaining a strong foundation in both frontend and backend technologies.</p>
               <div className="flex flex-col items-start gap-16">
                 <Stats />
                 <Testimonial />
